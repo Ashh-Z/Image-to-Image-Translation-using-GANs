@@ -1,7 +1,7 @@
 
 # Image to Image translation using GANs
 
-This was part of the mini project for computer vision course at IIIT-D (CSE344/CSE544/ECE344/ECE544)
+This was part of the mini project for computer vision course at IIIT-D (CSE344/CSE544/ECE344/ECE544) [report](https://drive.google.com/file/d/1t-vtcXCr-0lj1pxurVkFrQnplhXVRWHz/view?usp=drive_link)
 
 We tested out Pix2Pix [[Paper]](https://arxiv.org/abs/1611.07004) and Cycled GANs [[Paper]](https://arxiv.org/abs/1703.10593) for image to image translation, by training and generating images for various different datasets such as Cityscapes, Indian Driving Dataset (IDD), Facades, etc. 
 
