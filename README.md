@@ -20,3 +20,6 @@ We provided the pre processed IDD dataset along with a trained checkpoints on ID
 These were not given in the official github repo.
 
 To scrape imges from the web, run the ```img_scrape.ipynb``` file provided in ```cv_project_imgscrape``` folder. To test on these images, ensure that proper directory path in being used in the evaluation script. 
+
+## Results
+The generated images for each of the different dataset is present in the ```/results``` folder. Quantative results are present in the attached report.
