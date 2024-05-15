@@ -14,7 +14,7 @@ The code was reused from the official pytorch implementation of these papers  [[
 
 Refer to the original github repo for instruction to download the dataset and model checkpoints. 
 
-We provided the pre processed IDD dataset along with a trained checkpoints on IDD for both pix2pix and cycle gan. We also train a classifier on cityscapes dataset for evaluation [[classifier link]](https://drive.google.com/file/d/1sldVGqclsgOFHXSZngFfQeEldHSXZsEi/view?usp=drive_link), this needs to be placed in ```../scripts/eval_cityscapes/caffemodel```
+We provided the pre processed IDD dataset along with a trained checkpoints on IDD for both pix2pix and cycle gan. The checkpoints can be downloaded from here [drive link](https://drive.google.com/drive/folders/1vhpKfG1oPiBLbFeO2i5QGTyHoWmbqHfz?usp=sharing). These checkpoints should be put in ```/checkpoints``` folder. We also train a classifier on cityscapes dataset for evaluation [[classifier link]](https://drive.google.com/file/d/1sldVGqclsgOFHXSZngFfQeEldHSXZsEi/view?usp=drive_link), this needs to be placed in ```../scripts/eval_cityscapes/caffemodel```
 
 
 These were not given in the official github repo.
