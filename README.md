@@ -25,7 +25,7 @@ To scrape imges from the web, run the ```img_scrape.ipynb``` file provided in ``
 The generated images for each of the different dataset is present in the ```/results``` folder. Quantative results are present in the attached report.
 
 ### Contributions
-- [[Ashhar Aziz]](https://github.com/Ashh-Z)
-- [[N Narotam]](https://github.com/greasyfinger)
-- [[Navvrat Rao]](https://github.com/navvrat)
+- [Ashhar Aziz](https://github.com/Ashh-Z)
+- [N Narotam](https://github.com/greasyfinger)
+- [Navvrat Rao](https://github.com/navvrat)
 
