@@ -10,7 +10,7 @@ We also test the model on random images scrapped from the internet on Apple to O
 Further, we perform cross dataset evaluation on Cityscapes and IDD and report results on metrics such as mean pixel accuracy, mean class accuracy, etc. 
 
 The code was reused from the official pytorch implementation of these papers  [[Github]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
-## Runing
+## Execution
 
 Refer to the original github repo for instruction to download the dataset and model checkpoints. 
 
